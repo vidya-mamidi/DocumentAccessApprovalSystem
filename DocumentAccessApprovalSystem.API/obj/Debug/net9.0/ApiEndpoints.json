@@ -1,0 +1,138 @@
+[
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.AccessRequestController",
+    "Method": "CreateAccessRequest",
+    "RelativePath": "api/AccessRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accessRequestDto",
+        "Type": "DocumentAccessApprovalSystem.Application.Models.CreateAccessRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.AccessRequestController",
+    "Method": "GetRequestsByUser",
+    "RelativePath": "api/AccessRequest/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DocumentAccessApprovalSystem.Domain.Entities.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.AuthController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Auth/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.DecisionController",
+    "Method": "MakeDecision",
+    "RelativePath": "api/Decision",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "decisionDto",
+        "Type": "DocumentAccessApprovalSystem.Application.Models.DecisionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.DecisionController",
+    "Method": "GetPendingRequests",
+    "RelativePath": "api/Decision/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.DecisionController",
+    "Method": "GetRequests",
+    "RelativePath": "api/Decision/Requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.DocumentsController",
+    "Method": "GetDocuments",
+    "RelativePath": "api/Documents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.LogController",
+    "Method": "GetEmailLogs",
+    "RelativePath": "api/Log/emails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentAccessApprovalSystem.API.Controllers.LogController",
+    "Method": "GetNotificationLogs",
+    "RelativePath": "api/Log/notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

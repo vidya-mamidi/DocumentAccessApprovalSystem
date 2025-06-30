@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentAccessApprovalSystem.Domain", "DocumentAccessApprovalSystem.Domain\DocumentAccessApprovalSystem.Domain.csproj", "{86BD56F8-8645-4A26-B520-28B4557FA24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentAccessApprovalSystem.Application", "DocumentAccessApprovalSystem.Application\DocumentAccessApprovalSystem.Application.csproj", "{E8149801-5848-4A8C-85FE-3447C9801280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentAccessApprovalSystem.Infrastructure", "DocumentAccessApprovalSystem.Infrastructure\DocumentAccessApprovalSystem.Infrastructure.csproj", "{D6A7B4A4-F63E-491B-830B-F8253DF33BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentAccessApprovalSystem.API", "DocumentAccessApprovalSystem.API\DocumentAccessApprovalSystem.API.csproj", "{21B9BE17-C23C-46DB-800C-AB0199A8B819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentAccessApprovalSystem.Tests", "DocumentAccessApprovalSystem.Tests\DocumentAccessApprovalSystem.Tests.csproj", "{11A48AEA-1494-42CB-A0C3-7AA2C045EF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BD56F8-8645-4A26-B520-28B4557FA24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BD56F8-8645-4A26-B520-28B4557FA24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BD56F8-8645-4A26-B520-28B4557FA24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BD56F8-8645-4A26-B520-28B4557FA24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8149801-5848-4A8C-85FE-3447C9801280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8149801-5848-4A8C-85FE-3447C9801280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8149801-5848-4A8C-85FE-3447C9801280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8149801-5848-4A8C-85FE-3447C9801280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A7B4A4-F63E-491B-830B-F8253DF33BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A7B4A4-F63E-491B-830B-F8253DF33BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A7B4A4-F63E-491B-830B-F8253DF33BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A7B4A4-F63E-491B-830B-F8253DF33BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B9BE17-C23C-46DB-800C-AB0199A8B819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B9BE17-C23C-46DB-800C-AB0199A8B819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B9BE17-C23C-46DB-800C-AB0199A8B819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B9BE17-C23C-46DB-800C-AB0199A8B819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A48AEA-1494-42CB-A0C3-7AA2C045EF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A48AEA-1494-42CB-A0C3-7AA2C045EF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A48AEA-1494-42CB-A0C3-7AA2C045EF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A48AEA-1494-42CB-A0C3-7AA2C045EF50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F63E4FF-97C9-407B-846D-BAB27F38E207}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.deps.json
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.AssemblyInfo.cs
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.Domain.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\ref\DocumentAccessApprovalSystem.Domain.dll

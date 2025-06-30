@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YY0MlGJhrw3b6CpaatkLxk9ChNa4xXXUqAfIHqd1weI=",
+  "Source": "DocumentAccessApprovalSystem.API",
+  "BasePath": "_content/DocumentAccessApprovalSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

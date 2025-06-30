@@ -1,0 +1,17 @@
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.deps.json
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Application.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Application.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\Document.328548DC.Up2Date
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.Infrastructure.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Infrastructure\obj\Debug\net9.0\ref\DocumentAccessApprovalSystem.Infrastructure.dll

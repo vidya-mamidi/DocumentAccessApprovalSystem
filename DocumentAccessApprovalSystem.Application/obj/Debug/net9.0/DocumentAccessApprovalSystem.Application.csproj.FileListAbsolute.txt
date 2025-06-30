@@ -1,0 +1,15 @@
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\bin\Debug\net9.0\DocumentAccessApprovalSystem.Application.deps.json
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\bin\Debug\net9.0\DocumentAccessApprovalSystem.Application.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\bin\Debug\net9.0\DocumentAccessApprovalSystem.Application.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.AssemblyInfo.cs
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\Document.CED8C05C.Up2Date
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.Application.dll
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\ref\DocumentAccessApprovalSystem.Application.dll
