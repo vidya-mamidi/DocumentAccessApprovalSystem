@@ -14,5 +14,10 @@ namespace DocumentAccessApprovalSystem.Application.Interfaces
         Task<IEnumerable<AccessRequest>> GetPendingRequests();
 
         Task<IEnumerable<AccessRequest>> GetRequests();
+
+
+        Task UpdateAccessRequest(int userId, int documentId);
+
+
     }
 }

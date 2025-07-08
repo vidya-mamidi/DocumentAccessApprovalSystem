@@ -23,5 +23,7 @@ namespace DocumentAccessApprovalSystem.Application.Interfaces
         /// <param name="userId">The unique identifier of the user.</param>
         /// <returns>A task that represents the asynchronous operation, containing a collection of access requests.</returns>
         Task<IEnumerable<AccessRequest>> GetRequestsByUser(int userId);
+
+      
     }
 }

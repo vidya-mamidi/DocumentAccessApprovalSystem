@@ -18,7 +18,7 @@ namespace DocumentAccessApprovalSystem.Infrastructure.Services
         private readonly AppDbContext _appDbContext;
         private readonly IEmailService _emailService;
         private readonly INotificationService _notificationService;
-      
+
         public DecisionService(AppDbContext appDbContext, IEmailService emailService, INotificationService notificationService)
         {
             _appDbContext = appDbContext;
@@ -28,7 +28,7 @@ namespace DocumentAccessApprovalSystem.Infrastructure.Services
         public async Task MakeDecision(DecisionDto decisionDto)
         {
             var duplicateExists = await _appDbContext.AccessRequests.AnyAsync(r => r.Id == decisionDto.AccessRequestId);
-         
+
             if (duplicateExists)
                 throw new InvalidOperationException("Same Request was already Done.");
 
@@ -75,7 +75,7 @@ namespace DocumentAccessApprovalSystem.Infrastructure.Services
                   .Include(x => x.User)
                   .Include(x => x.Document)
                   .ToListAsync();
-          
+
             Console.WriteLine($"All Requests count: {result.Count}");
             foreach (var r in result)
             {
@@ -91,5 +91,32 @@ namespace DocumentAccessApprovalSystem.Infrastructure.Services
                  .Include(x => x.Document)
                  .ToListAsync();
         }
+
+
+
+        public async Task UpdateAccessRequest(int userId, int documentId)
+        {
+            var requests = await _appDbContext.AccessRequests.Where(x => x.UserId == userId && x.DocumentId == documentId  
+            && x.CreatedAt <= DateTime.UtcNow && x.Status == RequestStatus.Pending).FirstOrDefaultAsync();
+
+            if (requests.UserId != userId && requests.DocumentId != documentId)
+                throw new Exception("Not Found");
+
+
+             requests.Status = RequestStatus.Exculated;
+            requests.Decision = new Decision
+            {
+                AccessRequestId = requests.Id,
+                Approved = false,
+                Comment = "Updated pending requests which last more than 3 days."
+            };
+
+            
+
+
+            await _appDbContext.SaveChangesAsync();
+
+        }
+
     }
 }

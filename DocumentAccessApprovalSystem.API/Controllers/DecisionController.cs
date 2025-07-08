@@ -25,6 +25,14 @@ namespace DocumentAccessApprovalSystem.API.Controllers
         }
 
         [Authorize(Roles = "Approver")]
+        [HttpPost]
+        public async Task<IActionResult> UpdateAccessRequest(int  userId, int documentId)
+        {
+            await _decisionService.UpdateAccessRequest(userId,documentId);
+            return Ok("Decision recorded.");
+        }
+
+        [Authorize(Roles = "Approver")]
         [HttpGet("pending")]
         public async Task<IActionResult> GetPendingRequests()
         {

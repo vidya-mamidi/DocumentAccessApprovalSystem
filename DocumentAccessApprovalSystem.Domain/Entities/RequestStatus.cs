@@ -10,6 +10,7 @@ namespace DocumentAccessApprovalSystem.Domain.Entities
     {
         Pending,
         Approved,
-        Rejected
+        Rejected,
+        Exculated 
     }
 }
