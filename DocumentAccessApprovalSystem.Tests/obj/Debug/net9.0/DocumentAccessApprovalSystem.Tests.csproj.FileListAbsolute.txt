@@ -1,8 +1,3 @@
-C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.csproj.AssemblyReference.cache
-C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.AssemblyInfoInputs.cache
-C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.AssemblyInfo.cs
-C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.csproj.CoreCompileInputs.cache
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_DocumentAccessApprovalSystem.Tests
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_DocumentAccessApprovalSystem.Tests
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\bin\Debug\net9.0\testhost.dll
@@ -184,6 +179,12 @@ C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalS
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\bin\Debug\net9.0\DocumentAccessApprovalSystem.Application.pdb
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\bin\Debug\net9.0\DocumentAccessApprovalSystem.Domain.pdb
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\bin\Debug\net9.0\DocumentAccessApprovalSystem.Infrastructure.pdb
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.AssemblyInfo.cs
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.sourcelink.json
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\Document.27F136A4.Up2Date
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\DocumentAccessApprovalSystem.Tests.dll
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Tests\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.Tests.dll

@@ -14,9 +14,6 @@ namespace DocumentAccessApprovalSystem.Domain.Entities
         public string Comment { get; set; } = string.Empty;
         public DateTime DecisionDate { get; set; } = DateTime.UtcNow;
 
-        public static implicit operator Decision(Decision v)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocumentAccessApprovalSystem.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9693d3dc3d011b9ad37202543791c74f440a35de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocumentAccessApprovalSystem.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocumentAccessApprovalSystem.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

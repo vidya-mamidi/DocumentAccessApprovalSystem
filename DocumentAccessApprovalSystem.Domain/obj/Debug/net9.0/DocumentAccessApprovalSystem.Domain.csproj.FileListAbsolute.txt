@@ -5,6 +5,7 @@ C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalS
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.AssemblyInfoInputs.cache
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.AssemblyInfo.cs
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.sourcelink.json
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.dll
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.Domain.dll
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Domain\obj\Debug\net9.0\DocumentAccessApprovalSystem.Domain.pdb

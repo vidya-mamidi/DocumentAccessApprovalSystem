@@ -176,6 +176,7 @@ C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalS
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.csproj.CoreCompileInputs.cache
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.sourcelink.json
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\scopedcss\bundle\DocumentAccessApprovalSystem.API.styles.css
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets.development.json
@@ -186,10 +187,10 @@ C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalS
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DocumentAccessApprovalSystem.API.props
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DocumentAccessApprovalSystem.API.props
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\Document.E95CA149.Up2Date
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.dll
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.API.dll
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.pdb
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\DocumentAccessApprovalSystem.API.genruntimeconfig.cache
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\ref\DocumentAccessApprovalSystem.API.dll
-C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

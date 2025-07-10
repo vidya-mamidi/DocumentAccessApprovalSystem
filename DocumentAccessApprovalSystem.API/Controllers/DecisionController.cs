@@ -17,7 +17,7 @@ namespace DocumentAccessApprovalSystem.API.Controllers
         public DecisionController(IDecisionService decisionService) => _decisionService = decisionService;
 
         [Authorize(Roles = "Approver")]
-        [HttpPost]
+        [HttpPost("make-decision")]
         public async Task<IActionResult> MakeDecision(DecisionDto decisionDto)
         {
             await _decisionService.MakeDecision(decisionDto);
@@ -25,7 +25,7 @@ namespace DocumentAccessApprovalSystem.API.Controllers
         }
 
         [Authorize(Roles = "Approver")]
-        [HttpPost]
+        [HttpPost("update-access")]
         public async Task<IActionResult> UpdateAccessRequest(int  userId, int documentId)
         {
             await _decisionService.UpdateAccessRequest(userId,documentId);

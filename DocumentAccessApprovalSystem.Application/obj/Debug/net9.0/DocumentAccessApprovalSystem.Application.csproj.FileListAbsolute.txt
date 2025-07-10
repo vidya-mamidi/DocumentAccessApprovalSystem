@@ -8,6 +8,7 @@ C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalS
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.AssemblyInfoInputs.cache
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.AssemblyInfo.cs
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.sourcelink.json
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\Document.CED8C05C.Up2Date
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\DocumentAccessApprovalSystem.Application.dll
 C:\Users\varun\source\repos\DocumentAccessApprovalSystem\DocumentAccessApprovalSystem.Application\obj\Debug\net9.0\refint\DocumentAccessApprovalSystem.Application.dll
